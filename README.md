@@ -22,27 +22,6 @@
 
 ---
 
-## 🚧 Projects
-
-### 🔹 CodeFusion
-- Real-time collaborative editor (CRDT + WebSockets)  
-- 20+ users, ~100ms latency  
-- JWT + OTP authentication  
-
-### 🔹 FinanceBrain AI
-- AI-powered financial query system (text + voice)  
-- NLP (~85% accuracy)  
-- Dashboard with history  
-
----
-
-## 🌍 Open Source
-
-- Jenkins → Contributor search + UI refactor  
-- AOSSIE → Favorites + zoom + smart search  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
