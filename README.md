@@ -46,20 +46,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decodex15&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodex15&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=decodex15&show_icons=true&theme=github_dark&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=decodex15&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodex15&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-## 🔥 Advanced Stats
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/decodex15?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&languages=1&isocalendar=1&achievements=1&followup=1&config.timezone=Asia/Kolkata" />
+  <img src="https://streak-stats.demolab.com?user=decodex15&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -72,10 +71,10 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=decodex15&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=decodex15&theme=dark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -96,4 +95,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=decodex15&style=for-the-badge" />
 </p>
-
