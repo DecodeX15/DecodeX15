@@ -6,11 +6,11 @@
 
 ### 🚀 Full Stack Developer | IIT (ISM) Dhanbad
 
-- 🎓 IIT (ISM) Dhanbad (2023–2027)
-- ⚙️ Interested in **System Design & Real-Time Systems**
-- 🌐 CyberLabs Member
-- 📍 Banda, Uttar Pradesh
-- 📫 aryanvaibhav74@gmail.com
+- 🎓 IIT (ISM) Dhanbad (2023–2027)  
+- ⚙️ Interested in **System Design & Real-Time Systems**  
+- 🌐 CyberLabs Member  
+- 📍 Banda, Uttar Pradesh  
+- 📫 aryanvaibhav74@gmail.com  
 
 ---
 
@@ -25,14 +25,14 @@
 ## 🚧 Projects
 
 ### 🔹 CodeFusion
-- Real-time collaborative editor (CRDT + WebSockets)
-- 20+ users, ~100ms latency
-- JWT + OTP auth
+- Real-time collaborative editor (CRDT + WebSockets)  
+- 20+ users, ~100ms latency  
+- JWT + OTP authentication  
 
 ### 🔹 FinanceBrain AI
-- AI-based financial query system
-- NLP (~85% accuracy)
-- Dashboard + history
+- AI-powered financial query system (text + voice)  
+- NLP (~85% accuracy)  
+- Dashboard with history  
 
 ---
 
@@ -56,13 +56,37 @@
 
 ---
 
+## 🔥 Advanced Stats
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&languages=1&isocalendar=1&achievements=1&followup=1&config.timezone=Asia/Kolkata" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark" />
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 ## 🔗 Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/decodex15">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/vaibhav-aryan-00650b287/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
