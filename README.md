@@ -7,7 +7,7 @@
 ### 🚀 Full Stack Developer | IIT (ISM) Dhanbad
 
 - 🎓 IIT (ISM) Dhanbad (2023–2027)  
-- ⚙️ Interested in **System Design & Real-Time Systems**  
+- ⚙️ System Design & Real-Time Systems  
 - 🌐 CyberLabs Member  
 - 📍 Banda, Uttar Pradesh  
 - 📫 aryanvaibhav74@gmail.com  
@@ -25,11 +25,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decodex15&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=decodex15&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodex15&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decodex15&theme=github_dark" />
 </p>
 
 ---
@@ -64,7 +68,7 @@
   <a href="https://github.com/decodex15">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
